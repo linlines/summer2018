@@ -3,7 +3,7 @@
 <script src="js/script.js"></script>
 <?php
 require_once('head.php');
-/*面向对象连接数据库*/
+/*面向对象连接数据库 1111111*/
 require_once('toolClass/connDB.php');
 //查询图书所有分类
 $sqlcate="select categoryId,categoryName from categories";
